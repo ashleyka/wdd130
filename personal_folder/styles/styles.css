@@ -1,26 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital@1&display=swap'); 
-:root {
-  /* change the values below to your colors from your palette */
-  --primary-color: #4583b0;
-  --secondary-color: #EF8B6C;
-  --accent1-color: #AABD8C;
-  --accent2-color: white;
 
-  /* change the values below to your chosen font(s) */
-  --heading-font: "Shantell Sans",Arial,"sans serif";
-  --paragraph-font:  Roboto , Arial, sans-serif ;
-
-  /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #4583b0;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #4583b0; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #AABD8C  ;
-  --nav-link-color: #4583b0;
-  --nav-background-color: #EF8B6C;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #4583b0;
-}
 /* NAV AND HEADER */
 nav a{
     text-align:center;
@@ -213,15 +192,15 @@ footer .social img {
 }
 
 
-.title-faq {
+.title-dates {
   text-align: center;
   font-family: Kalam;
 }
-.faq-picture {
+.dates-picture {
   width: 50%;
   border: 10px solid #26413C;
 }
-.faq-grid {
+.dates-grid {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   text-align: center;
@@ -229,28 +208,28 @@ footer .social img {
   align-items: center;
   justify-items: center; 
 }
-.title-faq {
+.title-dates {
   text-align: center;
 }
-.title-faq h2 {
+.title-dates h2 {
   margin-top: 70px;
 }
 .question{
-  background: #8AB0AB;
+  background: #EF8B6C;
   margin: 30px;
   vertical-align: middle;
   width: 70%;
 
 }
-.faq-grid .tip h3  {
+.faq-dates .tip h3  {
   font-size: 16px;
   padding: 10px;
 }
-.faq-grid .tip p {
+.faq-dates .tip p {
   font-size: 14px;
   padding: 10px;
 }
-.faq-grid .tip li {
+.faq-dates .tip li {
   font-size: 14px;
   padding: 10px;
 }
