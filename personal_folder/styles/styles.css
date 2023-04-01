@@ -270,7 +270,7 @@ font-family: Kalam;
 }
 .Contantus-picture {
 width: 25%;
-border: 10px solid #26413C;
+border: 10px solid #AABD8C;
 }
 .Contantus-grid {
 display: grid;
@@ -287,7 +287,7 @@ text-align: center;
 margin-top: 70px;
 }
 .information{
-background: #4583b0;
+background: #EF8B6C;
 margin: 30px;
 vertical-align: middle;
 width: 70%;
