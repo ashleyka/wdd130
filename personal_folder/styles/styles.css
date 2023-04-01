@@ -264,15 +264,15 @@ footer .social img {
   padding-top: 15px;
 }
 
-.title-aboutus {
+.title-Contantus {
 text-align: center;
 font-family: Kalam;
 }
-.aboutus-picture {
+.Contantus-picture {
 width: 25%;
 border: 10px solid #26413C;
 }
-.aboutus-grid {
+.Contantus-grid {
 display: grid;
 grid-template-columns: repeat(1, 1fr);
 text-align: center;
@@ -280,10 +280,10 @@ box-sizing: border-box;
 align-items: center;
 justify-items: center; 
 }
-.title-aboutus {
+.title-Contantus {
 text-align: center;
 }
-.title-aboutus h2 {
+.title-Contantus h2 {
 margin-top: 70px;
 }
 .information{
@@ -292,15 +292,15 @@ margin: 30px;
 vertical-align: middle;
 width: 70%;
 }
-.aboutus-grid .information h3  {
+.Contantus-grid .information h3  {
 font-size: 16px;
 padding: 10px;
 }
-.aboutus-grid .information p {
+.Contantus-grid .information p {
 font-size: 14px;
 padding: 10px;
 }
-.aboutus-grid .information li {
+.Contantus-grid .information li {
 font-size: 14px;
 padding: 10px;
 }
