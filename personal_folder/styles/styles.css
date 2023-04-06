@@ -18,7 +18,7 @@ nav {
     align-self: center;
 }
 .logo {
-width:80px;
+width: 100px;
 }
 header {
     background-color:#4583b0;
@@ -52,7 +52,7 @@ nav a:hover {
     margin-top: 70px;
 }
 .tip{
-    background: #EF8B6C;
+    background: #AABD8C;
     margin: 30px;
     word-wrap: break-word;
     vertical-align: middle;
@@ -77,23 +77,24 @@ body {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 80%;
+  max-width: 40%;
   position: relative;
   margin: auto;
 }
 
 /* Hide the images by default */
 .mySlides {
-  display: none;
+display:  img src="images/maciek-sulkowski-gmejHJ6k-VY-unsplash.jpg";
+
 }
 
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 50%;
+  top: 80%;
   width: auto;
-  margin-top: -22px;
+  margin-top: -18px;
   padding: 16px;
   color: white;
   font-weight: bold;
